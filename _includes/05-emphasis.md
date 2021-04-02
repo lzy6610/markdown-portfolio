@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My favourite movie is **Forrest Gump**. I was inspired by his spirite and attitude. 
+
+I am currently studying in U of T and learning statistic. I had some experiences with **python** and **R**
